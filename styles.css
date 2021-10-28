@@ -49,8 +49,8 @@ font-family: 'Zen Antique', serif;
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  top: 200px;
+  left: 80px;
+  top: 370px;
 }
 
 .btn {
@@ -94,7 +94,7 @@ font-family: 'Zen Antique', serif;
   font-size: 18px;
   font-family: 'Zen Antique', serif;
 }
-.fourth-cloud {
+.third-cloud {
   position: absolute;
   right: 10px;
   top: 450px;
@@ -138,12 +138,6 @@ font-family: 'Zen Antique', serif;
   position: absolute;
   right: 300px;
   top: 80px;
-}
-
-.third-cloud {
-  position: absolute;
-  left: 80px;
-  top: 370px;
 }
 
 .web {
