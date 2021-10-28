@@ -9,7 +9,7 @@ body {
   margin: 0;
   text-align: center;
   color: #40514E;
-  background-color: #F9F3DF;
+  background-color: #FFFFFD;
 }
 
 h1 {
@@ -34,7 +34,7 @@ h3 {
 hr {
   margin: 50px auto 50px;
   width: 4%;
-  border: dotted #EAF6F6 12px;
+  border: dotted #cce6ff 12px;
   border-bottom: none;
 }
 
